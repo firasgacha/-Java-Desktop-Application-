@@ -168,11 +168,11 @@ public class ReclamerController implements Initializable {
     }
 
     private void sendMail() {
-        String to = "firasgacha8@gmail.com";
-        String from = "fg7@students.kiron.ngo";
+        String to = "mail de destination";
+        String from = "mail d'envoie";
         String host = "smtp.gmail.com";
-        final String username = "fg7@students.kiron.ngo";
-        final String password = "f*i*r*a*s*1*3*0*2*9*8";
+        final String username = "mail de destination";
+        final String password = "mot de passe";
         ////SETUP SERVER
 
         Properties props = System.getProperties();
